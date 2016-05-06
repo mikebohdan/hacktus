@@ -2,3 +2,5 @@ Vagrantfile
 .DS_Store
 .vagrant
 __pycache__
+celery*
+logs
